@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/59043262/190645427-487ae573-b266-44cc-b9b2-7c0db3726bde.png)
 
-**Yuyou Gan** 
+**Name: Yuyou Gan** 
 
-<ganyuyou@zju.edu.cn>
+email: <ganyuyou@zju.edu.cn>
 
 **Education**
 
